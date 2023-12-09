@@ -27,7 +27,7 @@ else:
 
     # Draw circles on the original image at the source points
     for x in range(0, 4):
-        cv.circle(image, (int(pts1[x][0]), int(pts1[x][1])), 10, (0, 0, 255), -1)
+        cv.circle(image, (int(pts1[x][0]), int(pts1[x][1])), 100, (0, 0, 255), -1)
         # cv.circle(image, (pts1[x][0], pts1[x][1]), 5, (0, 0, 255), cv.FILLED)
 
     # Display the original and transformed images
