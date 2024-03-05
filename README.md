@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Python OpenCV Projects 🐍📸</h1>
+  <h1>Python OpenCv Projects 🐍📸</h1>
   <p>A curated collection of Python scripts for image processing and computer vision using OpenCV</p>
 </div>
 
