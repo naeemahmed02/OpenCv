@@ -21,7 +21,7 @@
 - [12-Detecting-mouse-clicks-part-2.py](12-Detecting-mouse-clicks-part-2.py): Part 2 of script for detecting mouse clicks.
 - [13-object-tracker.py](13-object-tracker.py): Object tracking script.
 - [NumericClassifier_CNN_Zero_to_Nine.py](NumericClassifier_CNN_Zero_to_Nine.py): Training CNN model to classify digits from zero to nine.
-- [14-digit_classifier.py](Digit Classifier Script Using OpenCv)
+- [14-digit_classifier.py](14-digit_classifier.py): Digit Classifier Script Using OpenCV.
 
 ---
 
